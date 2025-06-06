@@ -115,14 +115,14 @@ class Configuration:
     TRAIN_CITIES = [
 
         'barcelona',  # 18364
-        'captown',  # 10586
-        'losangeles',  # 18178
-        'maynila',  # 9971
+        # 'captown',  # 10586
+        # 'losangeles',  # 18178
+        # 'maynila',  # 9971
         'melbourne',  # 18247
-        'mexico',  # 19805
+        # 'mexico',  # 19805
         'newyork',  # 19996
         'paris',  # 20214
-        'santiago',  # 16525
+        # 'santiago',  # 16525
         'tokyo',  # 11068
         ######   sum 162954
         # 'tainan',  # 6711
